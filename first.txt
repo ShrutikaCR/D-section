@@ -1,0 +1,6 @@
+first git program
+second line
+third line
+learning git stash
+along with git push commit
+awhdg
