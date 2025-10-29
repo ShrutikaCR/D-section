@@ -3,5 +3,5 @@ second line
 third line
 learning git stash
 along with git push commit
-awhdg
+awhg
 learning experiment 3
