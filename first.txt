@@ -15,8 +15,12 @@ awhg
 learning experiment 3
 learning experiment 6
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 >>>>>>> b60548b (new commit)
 =======
 
 >>>>>>> cc753a0 (new commit)
+=======
+new
+>>>>>>> f0f979f (merge commit)
