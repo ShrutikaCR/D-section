@@ -3,5 +3,15 @@ second line
 third line
 learning git stash
 along with git push commit
+<<<<<<< HEAD
 awhdg
 learning experiment 6
+=======
+<<<<<<< HEAD
+awhg
+learning experiment 3
+=======
+awhdg
+learning experiment 6
+>>>>>>> master
+>>>>>>> b60548b (new commit)
